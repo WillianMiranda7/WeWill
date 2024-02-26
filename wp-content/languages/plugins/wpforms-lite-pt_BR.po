@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Contact Form by WPForms &#8211; Drag &amp; Drop Form Builder for WordPress - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-13 12:34:44+0000\n"
+"PO-Revision-Date: 2024-02-19 10:09:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -33,20 +33,20 @@ msgstr "Tradução"
 
 #: src/Lite/Admin/Settings/Access.php:165
 msgid "Access controls allows you to manage and customize access to WPForms functionality. You can easily grant or restrict access using the simple built-in controls, or use our official integrations with Members and User Role Editor plugins."
-msgstr "Os controles de acesso permitem gerenciar e personalizar o acesso à funcionalidade WPForms. Você pode conceder ou restringir facilmente o acesso usando os controles integrados simples ou usar nossas integrações oficiais com plugins de membros e editores de função de usuário ."
+msgstr "Os controles de acesso permitem gerenciar e personalizar o acesso à funcionalidade do WPForms. É possível conceder ou restringir facilmente o acesso usando os controles internos simples ou usar nossas integrações oficiais com os plugins Members e User Role Editor."
 
 #: src/Lite/Admin/Pages/Addons.php:92
 msgid "Access powerful marketing and payment integrations, advanced form fields, and more when you purchase our Plus, Pro, or Elite plans."
-msgstr "Acesse integrações poderosas de marketing e pagamento, campos de formulário avançados e muito mais ao adquirir nossos planos Plus, Pro ou Elite."
+msgstr "Acesse integrações avançadas de marketing e pagamento, campos de formulário avançados e muito mais ao adquirir nossos planos Plus, Pro ou Elite."
 
 #: src/Lite/Admin/Pages/Addons.php:91
 msgid "Upgrade to Unlock WPForms Addons"
-msgstr "Atualize para desbloquear complementos WPForms"
+msgstr "Atualize para acessar os complementos do WPForms"
 
 #. translators: %1$s - Stripe.com URL for domains registration documentation.
 #: src/Integrations/Stripe/DomainHealthCheck.php:140
 msgid "Heads up! It looks like there's a problem with your domain verification, and Stripe Apple Pay may stop working. If this notice does not disappear in a day, <a href=\"%1$s\" rel=\"nofollow noopener\" target=\"_blank\">please register it manually.</a>"
-msgstr "Atenção! Parece que há um problema com a verificação do seu domínio e o Stripe Apple Pay poder parar de funcionar. Se este aviso não desaparecer em um dia, <a href=\"%1$s\" rel=\"nofollow noopener\" target=\"_blank\">cadastrar o manualmente.</a>"
+msgstr "Atenção! Parece que há um problema com sua verificação de domínio, e o Stripe Apple Pay pode parar de funcionar. Se esse aviso não desaparecer em um dia, <a href=\"%1$s\" rel=\"nofollow noopener\" target=\"_blank\">cadastre-o manualmente.</a>"
 
 #: src/Integrations/Stripe/Admin/Builder/Traits/ContentTrait.php:534
 msgid "Customer Name"
@@ -54,7 +54,7 @@ msgstr "Nome do cliente"
 
 #: src/Integrations/Stripe/Admin/Builder/Traits/ContentTrait.php:521
 msgid "Select the field that contains the customer's name. This is optional but recommended."
-msgstr "Selecione o campo que contém o nome do cliente. Isso é opcional, mas recomendado."
+msgstr "Selecione o campo com o nome do cliente. Esse recurso é opcional, porém recomendado."
 
 #: src/Integrations/Stripe/Admin/Builder/Traits/ContentTrait.php:520
 msgid "--- Select Name ---"
@@ -62,7 +62,7 @@ msgstr "--- Selecione o nome ---"
 
 #: src/Integrations/Divi/Divi.php:236
 msgid "Need some help? Check out our"
-msgstr "Precisa de alguma ajuda? Consultar nosso"
+msgstr "Precisa de ajuda? Consulte nosso"
 
 #: src/Integrations/Divi/Divi.php:235
 msgid "comprehensive guide"
@@ -71,16 +71,16 @@ msgstr "guia completo"
 #. translators: %1$s - Minimum Price value.
 #: src/Forms/Fields/PaymentSingle/Field.php:636
 msgid "Minimum Price: %1$s"
-msgstr "Preço Mínimo: %1$s"
+msgstr "Preço mínimo: %1$s"
 
 #: src/Forms/Fields/PaymentSingle/Field.php:584
 msgid "Amount can't be less than the required minimum."
-msgstr "O valor não pode ser inferior ao mínimo obrigatório ."
+msgstr "O valor não pode ser inferior ao mínimo obrigatório."
 
 #. translators: %1$s - Minimum Price value.
 #: src/Forms/Fields/PaymentSingle/Field.php:442
 msgid "Minimum Price: <span class=\"min-price\">%1$s</span>"
-msgstr "Preço Mínimo: <span class=\"min-price\">%1$s</span>"
+msgstr "Preço mínimo: <span class=\"min-price\">%1$s</span>"
 
 #. translators: %1$s - Item Price value.
 #: src/Forms/Fields/PaymentSingle/Field.php:410
@@ -94,19 +94,19 @@ msgstr "Recomendação de segurança"
 #. translators: %1$s - the default minimum price.
 #: src/Forms/Fields/PaymentSingle/Field.php:362
 msgid "Requiring a minimum price of at least %1$s helps protect you against card testing by fraudsters."
-msgstr "Exigir um preço mínimo de pelo menos %1$s ajuda a protegê-lo contra testes de cartão por fraudadores."
+msgstr "Exigir um Preço mínimo de pelo menos %1$s ajuda a proteger você contra testes de cartão por fraudadores."
 
 #: src/Forms/Fields/PaymentSingle/Field.php:332
 msgid "Enter the minimum price of the item, without a currency symbol."
-msgstr "Digite o preço mínimo do item, sem símbolo de moeda."
+msgstr "Insira o Preço mínimo do item, sem o símbolo de moeda."
 
 #: src/Admin/Tools/Views/Import.php:357
 msgid "There was an error saving your form. Please check your file and try again."
-msgstr "Ocorreu um erro ao salvar seu formulário. Marcar seu arquivo e tente novamente."
+msgstr "Ocorreu um erro ao salvar seu formulário. Verifique seu arquivo e tente novamente."
 
 #: src/Admin/Tools/Views/Import.php:347
 msgid "The unfiltered HTML permissions are required to import form."
-msgstr "As permissões HTML não filtradas são obrigatório para importar o formulário."
+msgstr "As permissões de HTML não filtrado são necessárias para importar o formulário."
 
 #. translators: %1$s - Email template preview URL.
 #: src/Admin/Settings/Email.php:567
@@ -115,11 +115,11 @@ msgstr "<a href=\"%1$s\" class=\"wpforms-btn-preview\" target=\"_blank\" rel=\"n
 
 #: src/Admin/Settings/Email.php:449
 msgid "Upload or choose a logo to be displayed at the top of email notifications. Light mode image will be used if not set."
-msgstr "Enviar ou escolha um logo para ser exibido na parte superior das notificações e-mail . A imagem no modo claro será usada se não estiver definida."
+msgstr "Carregue ou escolha um logotipo a ser exibido na parte superior das notificações por e-mail. A imagem do modo claro será usada na falta de definição."
 
 #: src/Admin/Settings/Email.php:225
 msgid "Modern email clients support viewing emails in light and dark modes. You can upload a header image and customize the style for each appearance mode independently to ensure an optimal reading experience."
-msgstr "Os clientes e-mail modernos suportam a visualização de e-mails nos modos claro e escuro. Você pode enviar de uma Imagem de cabeçalho e personalizar o estilo de cada modo de aparência de forma independente para Garantir uma experiência de leitura ideal."
+msgstr "Os clientes de e-mail mais modernos permitem a visualização de e-mails nos modos claro e escuro. Você pode carregar uma imagem de cabeçalho e personalizar o estilo para cada modo de aparência de forma independente para garantir uma experiência de leitura ideal."
 
 #: src/Admin/Settings/Email.php:224
 msgid "Appearance"
@@ -127,7 +127,7 @@ msgstr "Aparência"
 
 #: src/Admin/Settings/Email.php:122
 msgid "This color combination may be hard to read. Try increasing the contrast between the body and text colors."
-msgstr "Esta combinação de cores poder ser difícil de ler. Tente aumentar o contraste entre as cores do corpo e do texto."
+msgstr "Essa combinação de cores pode dificultar a leitura. Tente aumentar o contraste entre as cores do corpo e do texto."
 
 #: src/Admin/Forms/Table/Facades/Columns.php:63
 msgid "ID"
@@ -144,7 +144,7 @@ msgstr "Não é possível salvar a ordem das colunas."
 #. translators: %1$s - CAPTCHA settings page URL, %2$s - WPForms.com doc URL.
 #: src/Admin/Education/Builder/Captcha.php:164
 msgid "Please complete the setup in your <a href=\"%1$s\" target=\"_blank\">WPForms Settings</a>, and check out <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">our guide</a> to learn about available CAPTCHA solutions."
-msgstr "Concluído a configuração em <a href=\"%1$s\" target=\"_blank\">Configurações do WPForms</a>e consultar <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">nosso guia</a> para saber mais sobre as soluções CAPTCHA disponíveis."
+msgstr "Conclua a configuração em <a href=\"%1$s\" target=\"_blank\">Configurações do WPForms</a>e consulte <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">nosso guia</a> para saber mais sobre as soluções CAPTCHA disponíveis."
 
 #: src/Admin/Builder/Templates.php:182
 msgid "Install and activate"
@@ -169,7 +169,7 @@ msgstr "Logotipo do %s"
 
 #: includes/functions/education.php:43
 msgid "Plugin installation is disabled for this site."
-msgstr "A instalação do plugin-in está desativada para este site."
+msgstr "A instalação do plugin está desativada para esse site."
 
 #. translators: %s - total amount of choices.
 #: includes/fields/class-base.php:2518
@@ -190,7 +190,7 @@ msgstr "Não foi possível carregar o painel de configuração."
 
 #: includes/admin/admin.php:290 includes/admin/builder/class-builder.php:683
 msgid "You tried uploading a file type that is not allowed. Please try again."
-msgstr "Você tentou fazer upload de um tipo de arquivo que não é permitido. Por favor, tente novamente."
+msgstr "Você tentou carregar um tipo de arquivo que não é permitido. Tente novamente."
 
 #: includes/admin/admin.php:256
 msgid "Unknown error."
@@ -199,32 +199,32 @@ msgstr "Erro desconhecido."
 #. translators: %s - entry count.
 #: includes/admin/admin.php:222
 msgid "Are you sure you want to trash %s entries? This will also remove all associated files, notes, and logs."
-msgstr "Tem certeza de que deseja lixeira %s entradas? Isso também removerá todos os arquivos, notas e registros associados."
+msgstr "Tem certeza de que deseja descartar %s entradas? Isso também excluirá todos os arquivos, notas e registros associados."
 
 #: includes/admin/admin.php:220
 msgid "Are you sure you want to trash ALL entries? This will also remove all associated files, notes, and logs."
-msgstr "Tem certeza de que deseja lixeira TODAS as entradas? Isso também removerá todos os arquivos, notas e registros associados."
+msgstr "Tem certeza de que deseja descartar TODAS as entradas? Isso também excluirá todos os arquivos, notas e registros associados."
 
 #: includes/admin/admin.php:219
 msgid "Are you sure you want to trash this entry? This will also remove all associated files, notes, and logs."
-msgstr "Tem certeza de que deseja lixeira esta post? Isso também removerá todos os arquivos, notas e registros associados."
+msgstr "Tem certeza de que deseja descartar essa entrada? Isso também excluirá todos os arquivos, notas e registros associados."
 
 #. translators: %s - entry count.
 #: includes/admin/admin.php:216
 msgid "Are you sure you want to delete %s entries? This will also remove all associated files, notes, and logs."
-msgstr "Tem certeza de que deseja excluir %s entradas? Isso também removerá todos os arquivos, notas e registros associados."
+msgstr "Tem certeza de que deseja excluir %s entradas? Isso também excluirá todos os arquivos, notas e registros associados."
 
 #: includes/admin/admin.php:214
 msgid "Are you sure you want to delete ALL entries? This will also remove all associated files, notes, and logs."
-msgstr "Tem certeza de que deseja excluir TODAS as entradas? Isso também removerá todos os arquivos, notas e registros associados."
+msgstr "Tem certeza de que deseja excluir TODAS as entradas? Isso também excluirá todos os arquivos, notas e registros associados."
 
 #: includes/admin/admin.php:213
 msgid "Are you sure you want to delete this entry? This will also remove all associated files, notes, and logs."
-msgstr "Tem certeza de que deseja excluir esta post? Isso também removerá todos os arquivos, notas e registros associados."
+msgstr "Tem certeza de que deseja excluir este post? Isso também excluirá todos os arquivos, notas e registros associados."
 
 #: includes/admin/admin.php:212
 msgid "Sorry, there is no entry meta that match your criteria."
-msgstr "Desculpe, não há meta de post que corresponda aos seus critérios."
+msgstr "Desculpe, não há meta de entrada que corresponda a seus critérios."
 
 #: includes/admin/admin.php:211
 msgid "Sorry, there are no form fields that match your criteria."
@@ -238,21 +238,21 @@ msgstr "Alterar colunas exibidas"
 #. guide, %3$s - link to contact support.
 #: includes/admin/admin.php:190 includes/admin/ajax-actions.php:698
 msgid "Could not install the addon. Please <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">download it from wpforms.com</a> and <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">install it manually</a>, or <a href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">contact support</a> for assistance."
-msgstr "Não foi possível instalar o complemento. <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">o baixar em wpforms.com</a> e <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">instale-o manualmente</a>ou <a href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">entre em contato com o suporte</a> para obter assistência."
+msgstr "Não foi possível instalar o complemento. <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">Baixe em wpforms.com</a> e <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">instale-o manualmente, </a>ou <a href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">entre em contato com o suporte</a> para obter ajuda."
 
 #: includes/admin/class-settings.php:494 src/Frontend/Frontend.php:1799
 msgid "Amount entered is less than the required minimum."
-msgstr "O valor inserido é inferior ao mínimo obrigatório ."
+msgstr "O valor inserido é inferior ao mínimo obrigatório."
 
 #: includes/admin/class-settings.php:492
 #: src/Forms/Fields/PaymentSingle/Field.php:340
 msgid "Minimum Price"
-msgstr "Preço minimo"
+msgstr "Preço mínimo"
 
 #. translators: %1$s - WPForms.com doc page URL; %2$s - button text.
 #: includes/admin/class-settings.php:114
 msgid "It looks like you've downgraded to an older version of WPForms. We recommend always using the latest version as some features may not function as expected in older versions. <a href=\"%1$s\" target=\"_blank\" rel=\"noopener\">%2$s</a>"
-msgstr "Parece que você fez downgrade para uma versão mais antiga do WPForms. Recomendamos sempre usar a versão mais recentes , pois alguns recursos poder não funcionar conforme o esperado em versões mais antigas. <a href=\"%1$s\" target=\"_blank\" rel=\"noopener\">%2$s</a>"
+msgstr "Parece que você fez o downgrade para uma versão mais antiga do WPForms. Recomendamos sempre usar a versão mais recente, pois alguns recursos podem não funcionar corretamente em versões mais antigas. <a href=\"%1$s\" target=\"_blank\" rel=\"noopener\">%2$s</a>"
 
 #: templates/integrations/wpcode/code-snippets.php:104
 msgid "Sorry, we didn't find any snippets that match your criteria."
@@ -264,7 +264,7 @@ msgstr "Instalado"
 
 #: templates/integrations/wpcode/code-snippets.php:84
 msgid "Install Snippet"
-msgstr "Instalar trecho"
+msgstr "Instalar snippet"
 
 #: templates/integrations/wpcode/code-snippets.php:84
 msgid "Edit Snippet"
@@ -272,20 +272,20 @@ msgstr "Editar snippet"
 
 #: templates/integrations/wpcode/code-snippets.php:75
 msgid "Search Snippets"
-msgstr "Trechos de pesquisa"
+msgstr "Pesquisar snippets"
 
 #. translators: %s - WPCode library website URL.
 #: templates/integrations/wpcode/code-snippets.php:58
 msgid "Using WPCode, you can install WPForms code snippets with 1 click directly from this page or the <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">WPCode library</a>."
-msgstr "Usando WPCode, você pode instalar snippets de código WPForms com 1 clique diretamente desta página ou da biblioteca <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">WPCode</a>."
+msgstr "Usando o WPCode, você pode instalar snippets de código do WPForms com um clique diretamente desta página ou da <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">biblioteca do WPCode</a>."
 
 #: templates/integrations/wpcode/code-snippets.php:45
 msgid "Learn more about WPCode"
-msgstr "Saiba mais sobre WPCode"
+msgstr "Saiba mais sobre o WPCode"
 
 #: templates/integrations/wpcode/code-snippets.php:39
 msgid "Using WPCode, you can install WPForms code snippets with 1 click right from this page or the WPCode Library in the WordPress admin."
-msgstr "Usando WPCode, você pode instalar snippets de código WPForms com 1 clique diretamente nesta página ou na Biblioteca WPCode no administrador do WordPress ."
+msgstr "Usando o WPCode, você pode instalar snippets de código do WPForms com um clique diretamente desta página ou da Biblioteca do WPCode no administrador do WordPress."
 
 #: templates/integrations/wpcode/code-snippets.php:30
 msgid "Activate WPCode"
@@ -293,23 +293,23 @@ msgstr "Ativar o WPCode"
 
 #: templates/integrations/wpcode/code-snippets.php:29
 msgid "Please Activate WPCode to Use the WPForms Snippet Library"
-msgstr "Ativar o WPCode para usar a biblioteca de snippets WPForms"
+msgstr "Ative o WPCode para usar a biblioteca de snippets do WPForms"
 
 #: templates/integrations/wpcode/code-snippets.php:25
 msgid "Update + Activate WPCode"
-msgstr "Atualizar + ativar WPCode"
+msgstr "Atualizar + ativar o WPCode"
 
 #: templates/integrations/wpcode/code-snippets.php:24
 msgid "Please Update WPCode to Use the WPForms Snippet Library"
-msgstr "Atualizar o WPCode para usar a biblioteca de snippets WPForms"
+msgstr "Instale o WPCode para usar a biblioteca de snippets do WPForms"
 
 #: templates/integrations/wpcode/code-snippets.php:21
 msgid "Install + Activate WPCode"
-msgstr "Instalar + ativar WPCode"
+msgstr "Instalar + ativar o WPCode"
 
 #: templates/integrations/wpcode/code-snippets.php:20
 msgid "Please Install WPCode to Use the WPForms Snippet Library"
-msgstr "Instale o WPCode para usar a biblioteca de snippets WPForms"
+msgstr "Instale o WPCode para usar a biblioteca de snippets do WPForms"
 
 #. translators: %1$s - site URL; %2$s - site title.
 #: templates/emails/classic-footer.php:26
@@ -319,16 +319,16 @@ msgstr "Enviado de <a href=\"%1$s\">%2$s</a>"
 
 #: templates/builder/notifications/email-template-modal.php:24
 msgid "Browse through our collection of email notification templates."
-msgstr "Procurar por nossa coleção de modelos de notificação e-mail ."
+msgstr "Conheça nossa coleção de modelos de notificação por e-mail."
 
 #: templates/builder/notifications/email-template-modal.php:21
 msgid "Choose a Template"
-msgstr "Escolha um modelo"
+msgstr "Escolher um modelo"
 
 #. translators: %1$s - Opening anchor tag, %2$s - Closing anchor tag.
 #: templates/builder/notifications/email-template-link.php:20
 msgid "Select a template to use for this notification or %1$sview templates%2$s."
-msgstr "Selecione um modelo para usar para esta notificação ou %1$smodelos de visualização%2$s."
+msgstr "Selecione um modelo para usar para essa notificação ou %1$sveja modelos%2$s."
 
 #. translators: %1$s - time when Lite Connect was enabled.
 #: src/Lite/Admin/Education/Admin/DidYouKnow.php:173
@@ -337,11 +337,11 @@ msgstr "desde %1$s"
 
 #: src/Emails/Notifications.php:913
 msgid "Tech"
-msgstr "Tecnologia"
+msgstr "Tech"
 
 #: src/Emails/Notifications.php:908
 msgid "Elegant"
-msgstr "Elegante"
+msgstr "Elegant"
 
 #: src/Emails/Notifications.php:898
 msgid "Compact"
@@ -350,7 +350,7 @@ msgstr "Compacto"
 #. translators: %1$d - field ID.
 #: src/Emails/Notifications.php:772
 msgid "Field ID #%1$d"
-msgstr "ID do campo nº%1$d"
+msgstr "N.º de ID do campo %1$d"
 
 #: src/Emails/Helpers.php:34
 msgid "Legacy"
@@ -377,7 +377,7 @@ msgstr "Sans Serif"
 
 #: src/Admin/Settings/Email.php:385
 msgid "Choose the style that’s applied to all text in email notifications."
-msgstr "Escolha o estilo aplicado a todo o texto nas notificações e-mail ."
+msgstr "Escolha o estilo que será aplicado a todo o texto nas notificações por e-mail."
 
 #: src/Admin/Settings/Email.php:384 src/Admin/Settings/Email.php:388
 msgid "Typography"
@@ -393,11 +393,11 @@ msgstr "Corpo"
 
 #: src/Admin/Education/Core.php:180
 msgid "are an Elite Feature"
-msgstr "são um recurso Elite"
+msgstr "são um recurso da versão Elite"
 
 #: src/Admin/Education/Core.php:161
 msgid "are a PRO Feature"
-msgstr "são um recurso PRO"
+msgstr "são um recurso versão PRO"
 
 #: src/Admin/Builder/Notifications/Advanced/EmailTemplate.php:172
 msgid "Default Template"
@@ -405,11 +405,11 @@ msgstr "Modelo padrão"
 
 #: src/Admin/Builder/Notifications/Advanced/EmailTemplate.php:119
 msgid "Override the default email template for this specific notification."
-msgstr "Substitua o modelo e-mail padrão para esta notificação específica."
+msgstr "Substitua o modelo de e-mail padrão para essa notificação específica."
 
 #: src/Admin/Builder/Notifications/Advanced/EmailTemplate.php:109
 msgid "Email Template"
-msgstr "Modelo e-mail"
+msgstr "Modelo de e-mail"
 
 #: includes/admin/settings-api.php:423
 #: templates/builder/notifications/email-template-modal.php:40
@@ -419,11 +419,11 @@ msgstr "Escolher"
 #: includes/admin/settings-api.php:394
 #: templates/builder/notifications/email-template-modal.php:31
 msgid "Email Templates"
-msgstr "Modelos e-mail"
+msgstr "Modelos de e-mail"
 
 #: includes/admin/class-about.php:589 lite/wpforms-lite.php:642
 msgid "Export entries to Google Sheets, Excel, and CSV"
-msgstr "Exporte entradas para Planilhas Google , Excel e CSV"
+msgstr "Exporte entradas para Planilhas Google, Excel e CSV"
 
 #: includes/admin/class-about.php:585 lite/wpforms-lite.php:641
 msgid "Take payments with Stripe, PayPal, Square, & Authorize.Net"
@@ -435,7 +435,7 @@ msgstr "Faça pesquisas e gere relatórios"
 
 #: includes/admin/class-about.php:561 lite/wpforms-lite.php:634
 msgid "Create powerful custom calculation forms"
-msgstr "Crie formulários de cálculo personalizado poderosos"
+msgstr "Criar formulários de cálculo personalizados e avançados"
 
 #: src/Admin/Education/Builder/Calculations.php:229
 #: src/Admin/Education/Builder/Calculations.php:240
@@ -472,7 +472,7 @@ msgstr "Tabela do histórico de renovação de assinatura"
 #. 'minute'.
 #: templates/admin/challenge/embed.php:99
 msgid "We're sorry that it took longer than %1$d %2$s to publish your form. Our goal is to create the most beginner-friendly WordPress form plugin.<br>How can we help you to be successful? Please send us your feedback. Our support team is standing by to help."
-msgstr "Lamentamos que tenha demorado mais de %1$d %2$s para publicar seu formulário. Nosso objetivo é criar o plugin de formulário WordPress mais amigável para iniciantes.<br>Como podemos ajudá-lo a ter sucesso? Por favor, envie-nos seus comentários. Nossa equipe de suporte está pronta para ajudar."
+msgstr "Lamentamos que tenha demorado mais de %1$d %2$s para publicar seu formulário. Nosso objetivo é criar o plugin de formulário do WordPress mais amigável para iniciantes.<br>Como podemos ajudar você a obter sucesso? Envie-nos seus comentários. Nossa equipe de suporte está à disposição para auxiliá-lo."
 
 #: templates/admin/challenge/embed.php:93
 msgid "Do you need more help?"
@@ -911,7 +911,7 @@ msgstr "Ative a capacidade de endereços de e-mail CC: nas configurações de no
 #. translators: %1$s - WPForms.com Email settings documentation URL.
 #: src/Admin/Settings/Email.php:253
 msgid "Send emails asynchronously, which can make processing faster but may delay email delivery by a minute or two. <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"wpforms-learn-more\">Learn More</a>"
-msgstr "Envie e-mails de forma assíncrona, o que pode tornar o processamento mais rápido, mas poder atrasar a envio e-mail em um ou dois minutos. <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"wpforms-learn-more\">Saiba mais</a>"
+msgstr "Envie e-mails de forma assíncrona, o que pode tornar o processamento mais rápido, mas pode atrasar a entrega das mensagens em um ou dois minutos. <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"wpforms-learn-more\">Saiba mais</a>"
 
 #: src/Admin/Settings/Email.php:352
 msgid "Upload or choose a logo to be displayed at the top of email notifications."
@@ -1577,7 +1577,7 @@ msgstr "<strong>Preço conforme o uso</strong><br> 3%% de taxa por transação +
 #. translators: %s - general admin settings page URL.
 #: src/Integrations/Stripe/Admin/Notices.php:91
 msgid "<strong>Pay-as-you-go Pricing</strong><br> 3%% fee per-transaction + Stripe fees. <a href=\"%s\">Renew your license</a> to remove additional fees and unlock powerful features."
-msgstr "<strong>Preço pré-pago</strong><br> Taxa de 3%% por transação + taxas Stripe . <a href=\"%s\">Renove sua licença</a> para remover taxas adicionais e desbloquear recursos avançados."
+msgstr "<strong>Preço por utilização</strong><br> Taxa de 3%% por transação + taxas Stripe. <a href=\"%s\">Renove sua licença</a> para eliminar taxas adicionais e acessar recursos avançados."
 
 #. translators: %s - general admin settings page URL.
 #: src/Integrations/Stripe/Admin/Notices.php:75
@@ -3892,7 +3892,7 @@ msgstr "Colete assinaturas, dados de geolocalização e uploads de arquivos"
 
 #: includes/admin/class-about.php:581 lite/wpforms-lite.php:640
 msgid "Let users save & resume submissions to prevent abandonment"
-msgstr "Permita que os usuários salvar e retomem os envios para evitar o abandono"
+msgstr "Permita que os usuários salvem e retomem os envios para evitar o abandono"
 
 #: includes/admin/class-about.php:577 lite/wpforms-lite.php:639
 msgid "6000+ integrations with marketing and payment services"
@@ -3900,7 +3900,7 @@ msgstr "Mais de 6.000 integrações com serviços de marketing e pagamento"
 
 #: includes/admin/class-about.php:557 lite/wpforms-lite.php:633
 msgid "Unlock all fields & features, including smart conditional logic"
-msgstr "Desbloqueie todos os campos e recursos, incluindo lógica condicional inteligente"
+msgstr "Acesse todos os campos e recursos, incluindo lógica condicional inteligente"
 
 #: includes/admin/class-about.php:553 lite/wpforms-lite.php:632
 msgid "Store and manage form entries in WordPress"
@@ -4740,7 +4740,7 @@ msgstr "Habilitar hCaptcha"
 
 #: includes/admin/class-about.php:1485
 msgid "Calculations, Form Abandonment, Conversational Forms, Lead Forms, Frontend Post Submission, User Registration, Geolocation, Google Sheets, Coupons, and more (30 total)"
-msgstr "Cálculos, abandono de formulário, formulários de conversação, formulários de lead, envio de postagem de interface , cadastro de usuário , geolocalização, planilhas do Google , cupons e muito mais (30 no total)"
+msgstr "Cálculos, abandono de formulário, formulários de conversação, formulários de leads, envio de post de front-end, cadastro de usuários, geolocalização, planilhas do Google, cupons e muito mais (total de 30)"
 
 #: includes/admin/class-about.php:1492 includes/admin/class-about.php:1499
 #: includes/admin/class-about.php:1506
@@ -6665,7 +6665,7 @@ msgstr "Cópia carbono"
 
 #: src/Admin/Settings/Email.php:605
 msgid "Customize the background color of the email template."
-msgstr "Personalizar a cor de plano de fundo do modelo e-mail ."
+msgstr "Personalizar a cor de fundo do modelo de e-mail."
 
 #: src/Admin/Settings/Email.php:604
 msgid "Background Color"
@@ -6818,7 +6818,7 @@ msgstr "Não disponível"
 #: includes/admin/class-about.php:1306 includes/admin/class-about.php:1320
 #: includes/admin/class-about.php:1334 includes/admin/class-about.php:1348
 msgid "<strong>Bonus:</strong> 6000+ integrations with Zapier."
-msgstr "<strong>Bônus:</strong> 1.6000 integrações com Zapier."
+msgstr "<strong>Bônus:</strong> Mais de 6.000 integrações com Zapier."
 
 #: includes/admin/class-about.php:1316 includes/admin/class-about.php:1330
 #: includes/admin/class-about.php:1344
